@@ -2,7 +2,7 @@
 const c = 334
 const a = 123;
 
-const b = 123
+const e = 123
 
 
 function sabin() {
@@ -11,7 +11,7 @@ function sabin() {
 }
 function why() { }
 
-function sabinone() {
+function sabintwo() {
 
   let d = 1
 }
