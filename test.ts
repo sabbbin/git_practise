@@ -1,5 +1,5 @@
 
-const c = 1234
+const c = 12
 
 
 function sabin() {
