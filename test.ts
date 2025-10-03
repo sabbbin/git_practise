@@ -1,2 +1,1 @@
-this is first commit
-this is second branch
+const b=123
