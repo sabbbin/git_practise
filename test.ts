@@ -1,14 +1,22 @@
 
-const c = 12
+const c = 334
+const a = 123;
+
+const b = 123
 
 
 function sabin() {
-  let b = 12
-}
-function sabin1() {
 
-  let b = 12
+  let b = 1
 }
+function why() { }
+
+function sabinone() {
+
+  let d = 1
+}
+
 function suwal() {
-  let b = 12
+
+  let a = 1
 }
