@@ -6,8 +6,17 @@ const d = 34
 const b = 123
 
 
-function sabin() { }
+function sabin() {
 
-function sabinone() { }
+  let a=1
+}
 
-function suwal() { }
+function sabinone() {
+
+  let a=1
+}
+
+function suwal() {
+
+  let a=1
+}
