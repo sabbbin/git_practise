@@ -1,16 +1,15 @@
 
-const c = 34
+const cs = 34
 const a = 123;
 
-const d = 34
-const b = 123
+const e = 123
 
 function sabin() {
   let b = 1
 }
 function why() { }
 
-function sabinone() {
+function sabintwo() {
 
   let d = 1
 }
