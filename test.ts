@@ -10,12 +10,12 @@ function sabin() {
 }
 function why() { }
 
-function sabinthree() {
+function sabinone() {
 
   let d = 1
 }
 
-function suwalone() {
+function suwal() {
   let b = 12
 
   let a = 1;
