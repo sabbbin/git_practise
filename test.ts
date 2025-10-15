@@ -1,22 +1,19 @@
-
-const c = 334
+const cs = 20;
 const a = 123;
 
-const e = 123
-
+const e = 123;
 
 function sabin() {
-
-  let b = 1
+  let b = 1;
 }
-function why() { }
+function why() {}
 
 function sabintwo() {
-
-  let d = 1
+  let d = 1;
 }
 
 function suwal() {
+  let b = 12;
 
-  let a = 1
+  let a = 1;
 }
