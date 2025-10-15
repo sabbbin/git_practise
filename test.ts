@@ -1,4 +1,4 @@
-const cs = 35;
+const cs = 20;
 const a = 123;
 
 const e = 123;
